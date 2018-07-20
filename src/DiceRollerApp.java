@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Random;
-
+// Amna Anjum
 public class DiceRollerApp {
 	public static void main(String [] args) {
 		Scanner scnr = new Scanner(System.in);
